@@ -1,11 +1,13 @@
 import React from 'react'
 
-import './navigate.css'
+
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
 
 
 import {navlink} from '../../Display/navlink'
+import './navigate.css'
+
 
 
 
@@ -25,7 +27,8 @@ function Navigationbar() {
     
     return (
         <div id="home"  >
-       <Navbar bg="dark"   className="navigation__container"  expand="md">   
+       <Navbar bg="dark"   className="navigation__container"  expand="md" >
+       
     <Navbar.Brand href="#home">Nisha PortFolio</Navbar.Brand>
     <Navbar.Toggle aria-controls="offcanvasNavbar" />
     <Navbar.Collapse style={{justifyContent:"flex-end",marginRight:"1rem",borderColor:"none"}}>

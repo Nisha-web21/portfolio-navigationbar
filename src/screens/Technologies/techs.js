@@ -1,0 +1,22 @@
+export const techs=[
+    {
+    name:'React',
+    icon:'react'
+},
+    {
+    name:'JS',
+    icon:'javascript'
+},
+    {
+    name:'NodeJS',
+    icon:'nodejs'
+},
+    {
+    name:'MSSQLServer',
+    icon:'msql_server'
+},
+    {
+    name:'BootStrap',
+    icon:'bootstrap'
+}
+]

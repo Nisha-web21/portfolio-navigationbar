@@ -4,9 +4,10 @@ import Nishapic from '../../images/Nishapic.JPG'
 
 function Aboutme() {
     return (
-        <div>
+       
            <div className="about_container" id="about-me">
-<img src={Nishapic} alt="nishaimg" width="10%" height="10%"/>
+            <div>
+           <img src={Nishapic} alt="nishaimg"/>
            </div>
            <div className="about_text">
               <h1> ABOUT ME</h1>
