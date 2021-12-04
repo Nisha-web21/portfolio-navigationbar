@@ -10,12 +10,13 @@ padding: 3rem;
 
 .tech_cards_container{
    display:flex;
-   flex-direction: column;
+   flex-direction: columngitgit;
    align-items: center;
    flex-wrap: wrap;
    justify-content: center;
    max-width: 1100px;
    margin:1rem 0;
+   background-color: hsl(209deg 35% 71%);
 }
 .tech_card{
     width:15rem;

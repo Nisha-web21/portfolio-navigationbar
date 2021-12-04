@@ -16,7 +16,7 @@ function Technologies() {
         // eslint-disable-next-line react/jsx-key
         <div key={idx} className="tech_card">
 <DevIcon className="tech_icon" icon={t.icon}/>
-<span style={{margin:"5px" ,fontSize:"5rem"}}>{t.name}</span>
+<span style={{margin:"5px" ,fontSize:"2rem"}}>{t.name}</span>
         </div>
     )
 })}

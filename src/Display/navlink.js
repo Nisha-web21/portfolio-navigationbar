@@ -18,10 +18,5 @@ export const navlink=[
     {
     name:"CONTACT",
     id:"#contact"
-},
-    {
-    name:"location",
-    id:"#location"
 }
 ]
-

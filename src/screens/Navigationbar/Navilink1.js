@@ -19,10 +19,7 @@ const Navilink1=[
     name:"CONTACT",
     ref:"#contact"
 },
-    {
-    name:"HOME",
-    ref:"#home"
-}
+    
 ]
 
 export default Navilink1;
