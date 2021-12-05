@@ -6,6 +6,7 @@ import Header from './screens/header/Header'
 import Aboutme from "./screens/Aboutme/Aboutme.jsx";
 import Technologies from "./screens/Technologies/Technologies.jsx";
 import Portfolio from "./screens/Portfolio/Portfolio.jsx";
+import Contacts from "./screens/Contacts/Contacts.jsx";
 
 
 
@@ -22,6 +23,7 @@ function App() {
   <Aboutme/>
   <Technologies/>
   <Portfolio/>
+  <Contacts/>
     </div>);
 }
 

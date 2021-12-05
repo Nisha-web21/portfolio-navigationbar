@@ -75,7 +75,7 @@ function Portfolio() {
            <h1> PORTFOLIO</h1>
            <p>This is my GitHUb Page
            <a href="https://github.com/Nisha-web21" target="_blank" rel="noreferrer">https://github.com/Nisha-web21</a></p>
-           <Container fluid="lg" style={{padding:"2rem"}}>
+           <Container fluid="lg" style={{padding:"2rem 0"}}>
                <Row>
 {mapped}
                </Row>
