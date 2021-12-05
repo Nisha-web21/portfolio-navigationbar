@@ -12,7 +12,7 @@ function Aboutme() {
            <div className="about_text">
               <h1> ABOUT ME</h1>
               <p> I want to be a Web Developer..Looking for a position to start my Career
-              in Web Development.Completed my Udemy Course just now</p>
+              in Web Development.Completed my Full Stack Web Development Course just now</p>
            </div>
         </div>
     )
